@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+body#Personteacher{ background-image:url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95cc94f92.png"); background-repeat:no-repeat; background-position:center; background-size:cover; padding:10px;}
+
+.form-heading { color:#fff; font-size:23px;}
+.panel h2{ color:#444444; font-size:18px; margin:0 0 8px 0;}
+
+.person-teacher .form-control {
+  background: #ffffff none repeat scroll 0 0;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 4px;
+  font-size: 14px;
+  height: 70px;
+  line-height: 70px;
+}
+.main-div {
+  background: repeat scroll 0 0;
+  border-radius: 2px;
+  margin: 10px auto 30px;
+  max-width: 50%;
+  padding: 50px 70px 70px 71px;
+}
+
+.person-teacher .form-group {
+  margin-bottom:10px;
+  
+}
+.person-teacher{ text-align:center;}
+label{
+	width:100px;
+	display:inline-block;
+	
+}
+
+.person-teacher .btn.btn-primary {
+  background: #CCCCFF none repeat scroll 0 0;
+  border-color:rgb(218, 247, 166);
+  color: rgb(179, 99, 71);
+  font-size: 14px;
+  width: 30%;
+  height: 50px;
+  line-height: 50px;
+  padding: 0;
+}
+
+
+.botto-text {
+  color: #ffffff;
+  font-size: 14px;
+  margin: auto;
+}
